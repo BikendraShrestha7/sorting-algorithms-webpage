@@ -1,0 +1,44 @@
+/* Import Google Fonts */
+body {
+  font-family: "Inter", sans-serif;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+/* Styling for main headings */
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* Algorithm section styling */
+.algorithm {
+  background: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Code block styling */
+pre {
+  background: #2d2d2d;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+code {
+  font-family: "Source Code Pro", monospace;
+}
+
+/* Footer styling with SFSU colors */
+footer {
+  background-color: #2a2a7b; /* SFSU Purple */
+  color: #ffcc33; /* SFSU Gold */
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
